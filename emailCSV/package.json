@@ -1,0 +1,16 @@
+{
+  "name": "emailcsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.3.2",
+    "nodemailer": "^6.4.6",
+    "open": "^7.0.3"
+  }
+}
